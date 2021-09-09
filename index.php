@@ -3,7 +3,6 @@
  * Created by PhpStorm.
  * User: st
  * Date: 09.09.2021
- * Time: 21:19
+ * Time: 18:56
  */
-
-echo 'eeee';
+echo "test";
